@@ -1,0 +1,17 @@
+
+## Content
+
+War is one of the most potent forces shaping global migration today, eradicating millions and forcing them into uncertain and often unsafe circumstances. The world is perceiving the highest number of displaced people in recorded history, with over 100 million forcibly displaced as of mid-2025. These movements are not isolated incidents but part of a growing global crisis that pressure host nations, humanitarian systems, and the displaced themselves. The war refugee crisis is brought forth by mass displacement, the collapse of food systems and economies, and the disproportionate suffering of vulnerable civilian populations.
+
+War is the primary operator of mass displacement, creating refugee crises that stress both local and international systems. As of 2025, more than 100 million refugees and internally displaced persons have been uprooted by conflicts, ==with Sudan, Syria, and Ukraine== accounting for more than half of these figures. ==Sudan alone has seen almost 15 million people displaced by late 2024, making it the largest displacement crisis in the world.== International agencies such as the UNHCR work to manage these crises by providing legal aid, resettlement options, and emergency shelter. However, these efforts are chronically underfunded leaving refugees in overcrowded camps, without adequate healthcare or education, and vulnerable to further displacement.
+
+Conflict also devastates food systems and social structures, driving famine and economic collapse. Seventy percent of the world’s most food-insecure populations live in conflict zones. Wars destroy farms, block aid routes, and weaponize hunger, leaving civilians with little chance of survival. ==Sudan’s 2024 famine affected about a million at catastrophic levels, while Gaza’s ongoing restrictions on food and aid have left over two million people facing famine conditions.== The economic impact is equally devastating: ==Gaza’s economy contracted by 80 percent in 2023==, with unemployment soaring and four out of five businesses destroyed. ==In Syria,== hyperinflation has made basic goods unaffordable for the majority of the population, 72 percent of whom depend on humanitarian aid.
+
+Finally, the human toll of war falls most heavily on vulnerable groups. Children are among the most significant decline: ==Close to fifty million were displaced by conflict in 2024 alone==, many facing malnutrition, interrupted education, and psychological trauma. Half of all children in Syrian refugee camps show symptoms of PTSD, while 15 percent of children under five in Gaza suffer acute malnutrition. Women, who make up half of the refugee population, face sharply higher rates of gender-based violence, with some reports suggesting a 70 percent increase in crisis situations. Men are also at risk, facing forced conscription, targeted killings, and economic collapse that robs them of their ability to provide for their families.
+
+
+The war refugee crisis is an issue of international significance, not merely a local matter. that exposes the fragility of humanitarian systems and the enduring vulnerability of civilians in war. By understanding how war displaces populations, starves communities, collapses economies, and devastates vulnerable groups, the international community can commence work on more effective responses. Continued lack of international focus and intervention will exacerbate the refugee crisis, leading to a continuation of instability and human suffering.
+
+## References 
+
+[[Main three ideas derived from War Refugee Research]]

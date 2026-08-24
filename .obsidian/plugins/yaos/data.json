@@ -1,0 +1,304 @@
+{
+  "host": "https://yaos-sync1.godiswither.workers.dev",
+  "token": "f23b80923409726ded22a97c291729e82e3225d99a8bace7ef378753440aabde",
+  "vaultId": "yZ_yvQrHvXBTrsPk3LtUGw",
+  "deviceName": "device-mnud23rr",
+  "debug": false,
+  "excludePatterns": "",
+  "maxFileSizeKB": 2048,
+  "externalEditPolicy": "always",
+  "enableAttachmentSync": true,
+  "attachmentSyncExplicitlyConfigured": false,
+  "maxAttachmentSizeKB": 10240,
+  "attachmentConcurrency": 1,
+  "showRemoteCursors": true,
+  "updateRepoUrl": "",
+  "updateRepoBranch": "main",
+  "_diskIndex": {
+    "Note on Tudors and Stuarts..md": {
+      "mtime": 1784999280655,
+      "size": 27048
+    },
+    "tudors_stuarts_corrected_note.md": {
+      "mtime": 1784724615317,
+      "size": 16169
+    },
+    "03 - SHORT STORIES/Action and Reaction - Chitra Fernando/Action and Reaction Research Paper by South Eastern University (Shajahan Lamiah).md": {
+      "mtime": 1775913674462,
+      "size": 24415
+    },
+    "03 - SHORT STORIES/Action and Reaction - Chitra Fernando/Action and Reaction Critique by E.A. Gamini Fonseka.md": {
+      "mtime": 1775913674434,
+      "size": 53594
+    },
+    "03 - SHORT STORIES/Eveline - James Joyce/Eveline_Analysis.md": {
+      "mtime": 1786194080170,
+      "size": 30828
+    },
+    "03 - SHORT STORIES/Cat in the Rain - Ernest Hemingway/Cat in the Rain.md": {
+      "mtime": 1777150633782,
+      "size": 17699
+    },
+    "03 - SHORT STORIES/Cat in the Rain - Ernest Hemingway/Basic background information.md": {
+      "mtime": 1775914284944,
+      "size": 588
+    },
+    "The Dumb Waiter.md": {
+      "mtime": 1781358584462,
+      "size": 3278
+    },
+    "05 - LANGUAGE PAPER/Source Material/Articles/War Refugee Research.md": {
+      "mtime": 1775913674503,
+      "size": 17513
+    },
+    "05 - LANGUAGE PAPER/Essay Practice/War Refugee Crisis.md": {
+      "mtime": 1775913674533,
+      "size": 3560
+    },
+    "Etc/Blossoming and the Nectar.md": {
+      "mtime": 1783785117077,
+      "size": 10879
+    },
+    "Etc/Anime download list.md": {
+      "mtime": 1772023495886,
+      "size": 2113
+    },
+    "06 - EXAM PREP/Context Questions/Short Story/Cat in the Rain/Past Paper Cat in the Rain Context Question Collection.md": {
+      "mtime": 1776198399632,
+      "size": 310
+    },
+    "06 - EXAM PREP/Context Questions/Short Story/Action and Reaction/Past Paper Action and Reaction Context Question Collection.md": {
+      "mtime": 1776195123570,
+      "size": 286
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/06 - Go and Catch a Falling Star Past Paper Context Question Collection.md": {
+      "mtime": 1776195274856,
+      "size": 270
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/07 - Remember Past Paper Context Question Collection.md": {
+      "mtime": 1776197142367,
+      "size": 256
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/08 - The Fisherman Mourned by His Wife Past Paper Context Collection.md": {
+      "mtime": 1776196508544,
+      "size": 272
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/09 - To a Snow Drop Past Paper Context Question Collection.md": {
+      "mtime": 1776194013901,
+      "size": 0
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/04 - Design Context Past Paper Question Collection.md": {
+      "mtime": 1776194068812,
+      "size": 0
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/03 - Chimney Sweeper Past Paper Context Question Collection.md": {
+      "mtime": 1776193971975,
+      "size": 0
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/01 - Sonnet 141 Past Paper Context Question Collection.md": {
+      "mtime": 1776193909927,
+      "size": 0
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/05 - Explosion Past Paper Context Question Collection.md": {
+      "mtime": 1776194378643,
+      "size": 0
+    },
+    "06 - EXAM PREP/Context Questions/Poetry/02 - Animal Crackers Past Paper Context Question Collection.md": {
+      "mtime": 1776194342444,
+      "size": 0
+    },
+    "06 - EXAM PREP/Context Questions/Drama/Glass Menagerie Past Paper Context Questions.md": {
+      "mtime": 1785540832180,
+      "size": 3675
+    },
+    "06 - EXAM PREP/Context Questions/Drama/Othello Past Paper Context Questions.md": {
+      "mtime": 1785541399593,
+      "size": 3350
+    },
+    "06 - EXAM PREP/Context Questions/Drama/Dumb Waiter Past Paper Context Questions.md": {
+      "mtime": 1785541583347,
+      "size": 2821
+    },
+    "06 - EXAM PREP/Analysis Questions/Novels/Nectar In a Sieve Analysis Questions.md": {
+      "mtime": 1785530668934,
+      "size": 1660
+    },
+    "06 - EXAM PREP/Analysis Questions/Novels/July's People Analysis Questions.md": {
+      "mtime": 1785530673901,
+      "size": 1990
+    },
+    "06 - EXAM PREP/Analysis Questions/Short Stories/Short Stories Analysis Questions.md": {
+      "mtime": 1785280614232,
+      "size": 5319
+    },
+    "06 - EXAM PREP/Analysis Questions/Dramas/Othello/Othello Past Paper Analysis Questions.md": {
+      "mtime": 1785530734040,
+      "size": 1471
+    },
+    "06 - EXAM PREP/Analysis Questions/Dramas/Dumb Waiter/Dumb Waiter Analysis Past Paper Questions.md": {
+      "mtime": 1785284214199,
+      "size": 1540
+    },
+    "06 - EXAM PREP/Analysis Questions/Dramas/Glass Menagerie/Glass Menagerie Analysis Questions.md": {
+      "mtime": 1785283703644,
+      "size": 1696
+    },
+    "06 - EXAM PREP/Analysis Questions/Poems/Poem Analysis Questions.md": {
+      "mtime": 1785281588934,
+      "size": 5460
+    },
+    "06 - EXAM PREP/Context Answers/Short Stories/Action and Reaction - Chitra Fernando/Action and Reaction Context Q1.md": {
+      "mtime": 1775913674378,
+      "size": 4367
+    },
+    "06 - EXAM PREP/Context Answers/Poetry Context Questions/Fisherman Mourned by His Wife Context Q1.md": {
+      "mtime": 1775913674349,
+      "size": 2700
+    },
+    "06 - EXAM PREP/Context Answers/Nectar in a Sieve/Nectar in a Sieve Context Q1.md": {
+      "mtime": 1775913674405,
+      "size": 3216
+    },
+    "06 - EXAM PREP/Analysis Answers/Eveline and Cat in the Rain.md": {
+      "mtime": 1775913674315,
+      "size": 4051
+    },
+    "02 - DRAMA/The Dumb Waiter/Dumb_Waiter_Analysis.md": {
+      "mtime": 1787407891071,
+      "size": 83960,
+      "contentHash": "9568d493362c82ed3beb2b2229ece6bcfe25373c3019f40e2989e1ef3ce897ba"
+    },
+    "02 - DRAMA/Othello/02 - Act 1 Scene 2.md": {
+      "mtime": 1775913674746,
+      "size": 6152
+    },
+    "02 - DRAMA/Othello/03 - Act 1 Scene 3.md": {
+      "mtime": 1775913674722,
+      "size": 9652
+    },
+    "02 - DRAMA/Othello/01 - Act 1 Scene 1.md": {
+      "mtime": 1775913674751,
+      "size": 6042
+    },
+    "01 - POETRY/15 - Suicide in the Trenches.md": {
+      "mtime": 1786799301913,
+      "size": 16403
+    },
+    "01 - POETRY/12 - An Introduction - Kamala Das.md": {
+      "mtime": 1784140477847,
+      "size": 36452
+    },
+    "01 - POETRY/08 - Sonnet 141 - William Shakespeare.md": {
+      "mtime": 1776023464881,
+      "size": 30835
+    },
+    "01 - POETRY/14 - An Unknown Girl - Moniza Alvi.md": {
+      "mtime": 1786798804756,
+      "size": 18278
+    },
+    "01 - POETRY/13 - To the Memory of Mr. Oldham - John Dryden.md": {
+      "mtime": 1784293010835,
+      "size": 17192
+    },
+    "01 - POETRY/10 - Money - Philip Larkin.md": {
+      "mtime": 1781941927839,
+      "size": 13798
+    },
+    "01 - POETRY/11 - The Rape of the Lock Canto 3 - Alexander Pope.md": {
+      "mtime": 1784140818957,
+      "size": 33115
+    },
+    "01 - POETRY/07 - Remember - Christina Rossetti.md": {
+      "mtime": 1776023464903,
+      "size": 30835
+    },
+    "01 - POETRY/04 - Go and Catch a Falling Star - John Donne.md": {
+      "mtime": 1775913674692,
+      "size": 40111
+    },
+    "01 - POETRY/09 - To a Snow Drop - William Wordsworth.md": {
+      "mtime": 1776023464828,
+      "size": 35161
+    },
+    "01 - POETRY/02 - Design - Robert Frost.md": {
+      "mtime": 1775913674688,
+      "size": 31806
+    },
+    "01 - POETRY/06 - Fisherman Mourned by His Wife - Patrick Fernando.md": {
+      "mtime": 1775913674650,
+      "size": 22630
+    },
+    "01 - POETRY/05 - Explosion - Vivimarie Vanderpoorten.md": {
+      "mtime": 1775913674695,
+      "size": 12575
+    },
+    "01 - POETRY/03 - Animal Crackers - Richard De Zoysa.md": {
+      "mtime": 1775913674685,
+      "size": 18310
+    },
+    "01 - POETRY/01 - Chimney Sweeper - William Blake.md": {
+      "mtime": 1775913674646,
+      "size": 27408
+    },
+    "00 - SYSTEM/UNIVERSAL WRITING FRAMEWORKS.md": {
+      "mtime": 1776030981611,
+      "size": 20894
+    },
+    "00 - SYSTEM/Sample.md": {
+      "mtime": 1775913674612,
+      "size": 18775
+    },
+    "00 - SYSTEM/Progress Tracker.md": {
+      "mtime": 1775913674618,
+      "size": 13818
+    },
+    "00 - SYSTEM/First Week Plan.md": {
+      "mtime": 1775913674608,
+      "size": 12839
+    },
+    "00 - SYSTEM/Literature Study System Complete Guide.md": {
+      "mtime": 1775913674604,
+      "size": 43128
+    },
+    "00 - SYSTEM/Competency Reference Guide.md": {
+      "mtime": 1775913674642,
+      "size": 15432
+    }
+  },
+  "_blobHashCache": {},
+  "_updateManifestCache": {
+    "fetchedAt": 1787403068546,
+    "manifest": {
+      "latestServerVersion": "0.3.0",
+      "latestPluginVersion": "2.1.0",
+      "releaseType": "compatible",
+      "autoUpdateEligible": false,
+      "minCompatibleServerVersionForPlugin": "0.2.0",
+      "minCompatiblePluginVersionForServer": "1.3.3",
+      "upgradeOrder": "either",
+      "releaseNotesUrl": "https://github.com/kavinsood/yaos/releases/tag/2.1.0",
+      "upgradeGuideUrl": "https://github.com/kavinsood/yaos#updating-your-server"
+    }
+  },
+  "frontmatterGuardEnabled": true,
+  "qaDebugMode": false,
+  "_serverCapabilitiesCache": {
+    "host": "https://yaos-sync1.godiswither.workers.dev",
+    "capabilities": {
+      "claimed": true,
+      "authMode": "claim",
+      "attachments": false,
+      "snapshots": false,
+      "serverVersion": "0.3.0",
+      "minPluginVersion": null,
+      "recommendedPluginVersion": "1.5.0",
+      "minSchemaVersion": 2,
+      "maxSchemaVersion": 2,
+      "migrationRequired": false,
+      "updateProvider": null,
+      "updateRepoUrl": null,
+      "updateRepoBranch": null
+    }
+  },
+  "_lastDiskIndexPersistedAt": 1787409210391
+}
