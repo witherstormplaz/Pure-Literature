@@ -1,13 +1,6 @@
 {
-  "pluginList": [
-    "kavinsood/yaos"
-  ],
-  "pluginSubListFrozenVersion": [
-    {
-      "repo": "kavinsood/yaos",
-      "version": ""
-    }
-  ],
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
