@@ -248,4 +248,3 @@ born for / mourn for          (F F)    ← feminine rhyme
 - **The Correspondence of Gerard Manley Hopkins and Robert Bridges** (ed. C.C. Abbott)
 - **Hopkins: A Literary Biography** by Robert Bernard Martin (1991)
 - **The Cambridge Companion to Gerard Manley Hopkins** (ed. Andrew Radford)
-
